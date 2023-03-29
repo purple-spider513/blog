@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Delicious+Handrawn");
+
+body {
+  background-color: rgb(17, 17, 17);
+}
+
+.sometext {
+  color: rgb(256, 256, 256);
+  font-family: Lato;
+}
+
+.postborder {
+  border: solid 1px white;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.datemenu {
+  color: rgb(256, 256, 256);
+  font-family: "Delicious Handrawn";
+  font-size: 20px;
+}
